@@ -1,3 +1,6 @@
 streamlit
-langchain_google_genai
-langchain_core.messages
+google-generativeai
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
